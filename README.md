@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asier</h1>
 <h3 align="center">I’m a student from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=terminaaitor05&label=Profile%20views&color=ff3a2f&style=plastic" alt="terminaaitor05" /> </p>
-
 - 📫 How to reach me **asier.amigorena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
